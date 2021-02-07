@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : For Study, For Us.
 name                     : "ManGi Song"
 description              : "An amazing website."
 url                      : "https://lovinsong.github.io"

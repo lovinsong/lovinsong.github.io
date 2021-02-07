@@ -15,7 +15,7 @@ title                    : "From java to endless"
 title_separator          : "-"
 subtitle                 : For Study, For Us.
 name                     : "ManGi Song"
-description              : "An amazing website."
+description              : "Junior developer"
 url                      : "https://lovinsong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -90,9 +90,9 @@ analytics:
 # Site Author
 author:
   name             : "Mangi Song"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/quokka.jpg"
   bio              : "Developer Song."
-  location         : "Somewhere"
+  location         : "Seoul"
   email            : "lovinsong@kakao.com
   links:
     - label: "Email"
